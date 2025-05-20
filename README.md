@@ -1,4 +1,4 @@
-# vaporwaver
+# vaporwave
 
 Some bash aliases/functions/scripts to slow down sounds, sort of like vaporwave
 
